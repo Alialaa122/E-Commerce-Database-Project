@@ -52,10 +52,13 @@ It helps you quickly populate the database with customers, products, orders, and
 
 You can find diagrams in the repository:
 
-schema.png – Database schema
+## 📊 Schema & ERD  
 
-erd.png – Entity Relationship Diagram
+### Database Schema  
+![Database Schema](Schema&ERD/Database_Schema.png)  
 
+### Entity Relationship Diagram  
+![ERD](Schema&ERD/ERD.png)  
 ---
 
 ## 🤝 Contributing
