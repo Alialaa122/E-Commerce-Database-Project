@@ -49,7 +49,7 @@ CREATE DATABASE ecommerce
 
 ## 🐍 Data Generation
 
-This project includes a Python script (data_generation_script.ipnyb) that automatically generates random data for testing.
+This project includes a Python script (data_generation_script.ipynb) that automatically generates random data for testing.
 It helps you quickly populate the database with customers, products, orders, and payments.
 
 ---
