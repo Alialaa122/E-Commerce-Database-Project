@@ -19,18 +19,30 @@ It includes **database design, schema creation, indexing, optimization, function
 ---
 ## 🚀 How to Run  
 
-Run these commands in **bash/command line** (not inside SQL Shell):  
+Run these commands in **bash/command line** 
 
 ```bash
 psql -U postgres -h localhost
 CREATE DATABASE ecommerce
 \c ecommerce 
 \i run_all.sql
+---
+
+📊 Schema & ERD
+
+You can find diagrams in the repository:
+
+schema.png – Database schema
+
+erd.png – Entity Relationship Diagram
 
 ---
 
+🤝 Contributing
 
+Feel free to fork this repo, open issues, or submit pull requests with improvements.
 
+---
 
 
 
