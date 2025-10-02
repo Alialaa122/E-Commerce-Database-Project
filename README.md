@@ -80,7 +80,7 @@ Feel free to fork this repo, open issues, or submit pull requests with improveme
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-alaa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-alaa/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alialaa122)  
 
 ---
