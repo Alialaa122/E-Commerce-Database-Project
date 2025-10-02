@@ -26,6 +26,7 @@ psql -U postgres -h localhost
 CREATE DATABASE ecommerce
 \c ecommerce 
 \i run_all.sql
+```
 ---
 
 📊 Schema & ERD
