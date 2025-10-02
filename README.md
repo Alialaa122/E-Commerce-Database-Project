@@ -7,7 +7,7 @@ It covers the essential database concepts including:
 - Table creation with relationships & constraints  
 - Queries (basic & advanced)  
 - Functions, Procedures, and Triggers  
-- Views & Materialized Views  
+- Views  
 - Indexing & Performance Optimization  
 
 ---
