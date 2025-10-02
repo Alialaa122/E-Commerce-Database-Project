@@ -2,7 +2,13 @@
 
 ## 📌 Overview  
 This project is a **PostgreSQL database** designed for an e-commerce system.  
-It includes **database design, schema creation, indexing, optimization, functions, procedures, triggers, and sample queries** that simulate real-world use cases.  
+It covers the essential database concepts including:  
+- ERD & Schema design  
+- Table creation with relationships & constraints  
+- Queries (basic & advanced)  
+- Functions, Procedures, and Triggers  
+- Views & Materialized Views  
+- Indexing & Performance Optimization  
 
 ---
 
@@ -52,13 +58,18 @@ It helps you quickly populate the database with customers, products, orders, and
 
 You can find diagrams in the repository:
 
-## 📊 Schema & ERD  
-
 ### Database Schema  
 ![Database Schema](Schema&ERD/Database_Schema.png)  
 
 ### Entity Relationship Diagram  
 ![ERD](Schema&ERD/ERD.png)  
+
+---
+
+## 🎯 Purpose
+
+This project was developed as a practice exercise for database engineering & SQL skills, including schema design, query writing, and performance optimization
+
 ---
 
 ## 🤝 Contributing
@@ -67,7 +78,16 @@ Feel free to fork this repo, open issues, or submit pull requests with improveme
 
 ---
 
+## 🌐 Connect with Me  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-alaa)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alialaa122)  
 
+---
 
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
 
